@@ -9,10 +9,14 @@ In this challenge, we ask you to build a predictive model that answers the quest
 ## Main Part
 The application UI has 2 main sections:
 - Exploration of the dataset
-- CLassification of the dataset test. 
-    - Utilization of classical  classifier in order to compare result
-    - Creation of a MLP Classifier.
-    - Send result on Kaggle
+    - train dataset size : (891, 12)
+    - test dataset size : (418, 11)
+ 
+- Classification and prection of surviver
+    - one branch with an MLP Classifer
+    - one branch with an Random forest Classifer
+    - one branch with an KNN Classifer
+
 
 ## Structure
 
@@ -20,7 +24,6 @@ The application UI has 2 main sections:
 |- Script with the classifier
 |- dataset train
 |- dataset test
-|- dataset exemple submission
 
 ## Getting Started
 Clone this repository or download its source from GitHub.
