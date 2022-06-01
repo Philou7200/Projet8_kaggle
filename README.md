@@ -7,6 +7,8 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 ## Main Part
+The project is coding with python 3.0
+
 The application UI has 2 main sections:
 - Exploration of the dataset
     - train dataset size : (891, 12)
@@ -29,3 +31,7 @@ The application UI has 2 main sections:
 Clone this repository or download its source from GitHub.
 Edit the file repository and launch the notebook
 
+## Link kaggle competition
+https://www.kaggle.com/code/philippinekling/titanic-competition
+
+this project is licensed under Apache-2.0
